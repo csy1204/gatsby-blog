@@ -11403,18 +11403,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-plugin-styled-components@npm:^5.0.0":
-  version: 5.0.0
-  resolution: "gatsby-plugin-styled-components@npm:5.0.0"
+"gatsby-plugin-styled-components@npm:^5.25.0":
+  version: 5.25.0
+  resolution: "gatsby-plugin-styled-components@npm:5.25.0"
   dependencies:
     "@babel/runtime": ^7.15.4
   peerDependencies:
     babel-plugin-styled-components: ">1.5.0"
     gatsby: ^4.0.0-next
-    react: ^16.9.0 || ^17.0.0
-    react-dom: ^16.9.0 || ^17.0.0
+    react: ^16.9.0 || ^17.0.0 || ^18.0.0 || ^0.0.0
+    react-dom: ^16.9.0 || ^17.0.0 || ^18.0.0 || ^0.0.0
     styled-components: ">=2.0.0"
-  checksum: d68ec4df6deac2bb36e260c8b83924098dc156d89d964d415873bdde29a152b6bb923c3098e2d76cdef890d793a5ad27c6f90d5dfd6cd1e01da88f10ed542a53
+  checksum: ce47704b1f08d2f4d671ed95ae6dbdc94ef4804cec78277cba3cdf8d3ca1c225820f8cc42c820ad96e4e6140556820181e45e30ddcd5778ec6cf6d27a1400e67
   languageName: node
   linkType: hard
 
@@ -11691,7 +11691,7 @@ __metadata:
     eslint-plugin-testing-library: ^4.12.4
     gatsby: ^4.0.0
     gatsby-cypress: ^2.0.0
-    gatsby-plugin-styled-components: ^5.0.0
+    gatsby-plugin-styled-components: ^5.25.0
     gatsby-theme-amaranth: "*"
     gh-pages: ^3.2.3
     jest: ^27.3.1
@@ -11950,7 +11950,7 @@ __metadata:
     eslint-plugin-testing-library: ^4.12.4
     gatsby: ^4.0.0
     gatsby-cypress: ^2.0.0
-    gatsby-plugin-styled-components: ^5.0.0
+    gatsby-plugin-styled-components: ^5.25.0
     gatsby-theme-amaranth: "*"
     gh-pages: ^3.2.3
     jest: ^27.3.1
@@ -12040,7 +12040,7 @@ __metadata:
     gatsby-plugin-react-svg: ^3.1.0
     gatsby-plugin-sharp: ^4.0.0
     gatsby-plugin-sitemap: ^5.0.0
-    gatsby-plugin-styled-components: ^5.0.0
+    gatsby-plugin-styled-components: ^5.25.0
     gatsby-plugin-twitter: ^4.0.0
     gatsby-remark-autolink-headers: ^5.0.0
     gatsby-remark-copy-linked-files: ^5.0.0
